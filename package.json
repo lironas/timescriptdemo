@@ -2,6 +2,7 @@
   "name": "@lironash/timescript",
   "version": "1.0.1",
   "main": "./dist/index.js",
+  "types": "./dist/@types",
   "type": "module",
   "scripts": {
     "test": "vitest",
